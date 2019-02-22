@@ -1,0 +1,298 @@
+Borough,Neighbourhood,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+Bronx,Wakefield,40.89470517661004,-73.8472005205491,9,Sandwich Place,Dessert Shop,Laundromat,Pharmacy,Ice Cream Shop,Food Truck,Donut Shop,Factory,Falafel Restaurant,Farm
+Bronx,Co-op City,40.874294193030146,-73.82993910812405,9,Park,Mattress Store,Discount Store,Chinese Restaurant,Pharmacy,Grocery Store,Pizza Place,Gift Shop,Basketball Court,Baseball Field
+Bronx,Eastchester,40.88755567735082,-73.82780644716419,3,Caribbean Restaurant,Bus Station,Diner,Metro Station,Deli / Bodega,Donut Shop,Bowling Alley,Bus Stop,Fast Food Restaurant,Chinese Restaurant
+Bronx,Fieldston,40.89543742690388,-73.90564259591689,9,Playground,Plaza,Yoga Studio,Film Studio,Exhibit,Eye Doctor,Factory,Falafel Restaurant,Farm,Farmers Market
+Bronx,Riverdale,40.89083449389135,-73.91258546108577,9,Park,Home Service,Food Truck,Gym,Bus Station,Playground,Plaza,Bank,Yoga Studio,Eye Doctor
+Bronx,Kingsbridge,40.881687371205246,-73.90281798724611,0,Pizza Place,Bar,Sandwich Place,Discount Store,Supermarket,Latin American Restaurant,Mexican Restaurant,Bakery,Pharmacy,Spanish Restaurant
+Manhattan,Marble Hill,40.87655077879968,-73.91065965862988,9,Coffee Shop,Discount Store,Yoga Studio,Kids Store,Steakhouse,Supplement Shop,Tennis Stadium,Shopping Mall,Shoe Store,Gym
+Bronx,Woodlawn,40.89827261213809,-73.86731496814183,9,Playground,Deli / Bodega,Pizza Place,Food & Drink Shop,Supermarket,Train Station,Pub,Cosmetics Shop,Convenience Store,Donut Shop
+Bronx,Norwood,40.87722415599449,-73.87939073956818,0,Park,Pizza Place,Deli / Bodega,Chinese Restaurant,Pharmacy,Bank,Fast Food Restaurant,American Restaurant,Spanish Restaurant,Bus Stop
+Bronx,Williamsbridge,40.881038878192136,-73.85744642974214,9,Caribbean Restaurant,Nightclub,Bar,Convenience Store,Soup Place,Fish Market,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+Bronx,Baychester,40.86685810725274,-73.83579759808124,9,Electronics Store,Supermarket,Bank,Discount Store,Donut Shop,Pizza Place,Sandwich Place,Pet Store,Fast Food Restaurant,Spanish Restaurant
+Bronx,Pelham Parkway,40.85741349808869,-73.85475564018006,0,Pizza Place,Deli / Bodega,Italian Restaurant,Plaza,Chinese Restaurant,Performing Arts Venue,Metro Station,Mexican Restaurant,Eye Doctor,Smoke Shop
+Bronx,City Island,40.84724670491817,-73.7864884526742,9,Harbor / Marina,Park,Thrift / Vintage Store,Seafood Restaurant,Spanish Restaurant,Bank,Smoke Shop,Liquor Store,Pharmacy,Pizza Place
+Bronx,Bedford Park,40.87018516497537,-73.88551218419138,0,Pizza Place,Deli / Bodega,Diner,Chinese Restaurant,Sandwich Place,Mexican Restaurant,Pharmacy,Supermarket,Bus Station,Spanish Restaurant
+Bronx,University Heights,40.855727077196676,-73.91041596191317,0,Chinese Restaurant,Pizza Place,Fast Food Restaurant,Shoe Store,Food,Bank,Optical Shop,Seafood Restaurant,Bakery,Sandwich Place
+Bronx,Morris Heights,40.84789792606274,-73.91967159119572,0,Pharmacy,Grocery Store,Food Truck,Latin American Restaurant,Bank,Burrito Place,Pizza Place,Spanish Restaurant,IT Services,Farmers Market
+Bronx,Fordham,40.86099679638657,-73.89642655981629,0,Mobile Phone Shop,Shoe Store,Spanish Restaurant,Pizza Place,Donut Shop,Gym / Fitness Center,Fast Food Restaurant,Supplement Shop,Clothing Store,Chinese Restaurant
+Bronx,East Tremont,40.84269615786057,-73.88735617532346,0,Pizza Place,Shoe Store,Supermarket,Mobile Phone Shop,Donut Shop,Mexican Restaurant,Spanish Restaurant,Lounge,Discount Store,Paella Restaurant
+Bronx,West Farms,40.83947505672657,-73.87774474910552,0,Bus Station,Supermarket,Latin American Restaurant,Diner,Convenience Store,Donut Shop,Playground,Pizza Place,Sandwich Place,Coffee Shop
+Bronx,High  Bridge,40.8366230107061,-73.92610209358138,0,Pharmacy,Pizza Place,Discount Store,Sandwich Place,Chinese Restaurant,Spanish Restaurant,Gym,Grocery Store,Food,Bus Station
+Bronx,Melrose,40.81975437059498,-73.90942160757443,0,Pizza Place,Supermarket,Pharmacy,Discount Store,Art Gallery,Supplement Shop,Paper / Office Supplies Store,Mexican Restaurant,Gym,Gym / Fitness Center
+Bronx,Mott Haven,40.80623874935181,-73.91609987487583,0,Pizza Place,Spanish Restaurant,Gym,Latin American Restaurant,Chinese Restaurant,Fish & Chips Shop,Pharmacy,Donut Shop,Flower Shop,Mobile Phone Shop
+Bronx,Port Morris,40.801663627756255,-73.91322139386142,9,Latin American Restaurant,Cupcake Shop,Distillery,Brewery,Spanish Restaurant,Flower Shop,Donut Shop,Peruvian Restaurant,Food Truck,Music Venue
+Bronx,Longwood,40.81509904545826,-73.89578820094465,3,Sandwich Place,Diner,Metro Station,Grocery Store,Donut Shop,Latin American Restaurant,Bus Station,Chinese Restaurant,Deli / Bodega,Food & Drink Shop
+Bronx,Hunts Point,40.80972987938713,-73.88331505955298,0,Bank,Juice Bar,Pizza Place,Gourmet Shop,Farmers Market,Spanish Restaurant,Waste Facility,Café,BBQ Joint,Shipping Store
+Bronx,Morrisania,40.82359198585537,-73.90150648943066,0,Discount Store,Bus Station,Fast Food Restaurant,Pizza Place,Donut Shop,Fish & Chips Shop,Fish Market,Metro Station,Mexican Restaurant,Bakery
+Bronx,Soundview,40.82101219791406,-73.86574609554933,3,Chinese Restaurant,Grocery Store,Bus Station,Fried Chicken Joint,Pharmacy,Basketball Court,Video Store,Bus Stop,Breakfast Spot,Latin American Restaurant
+Bronx,Clason Point,40.80655112003594,-73.85414416189273,9,Park,Business Service,Grocery Store,Boat or Ferry,South American Restaurant,Bus Stop,Pool,Scenic Lookout,Yoga Studio,Film Studio
+Bronx,Throgs Neck,40.815109258040096,-73.8163500215845,0,Deli / Bodega,Asian Restaurant,Pizza Place,Coffee Shop,Chinese Restaurant,Sports Bar,Baseball Field,Bar,Liquor Store,Italian Restaurant
+Bronx,Country Club,40.844245936947424,-73.82409926753857,3,Sandwich Place,Chinese Restaurant,Fried Chicken Joint,Weight Loss Center,Playground,Comic Shop,Film Studio,Exhibit,Eye Doctor,Factory
+Bronx,Parkchester,40.83793782226733,-73.8560031053579,0,Supermarket,Pizza Place,American Restaurant,Bank,Chinese Restaurant,Asian Restaurant,Shipping Store,Mattress Store,Martial Arts Dojo,Mexican Restaurant
+Bronx,Westchester Square,40.84061949643274,-73.8421940760445,0,Pizza Place,Gym,Fast Food Restaurant,Pharmacy,Donut Shop,Bar,Mexican Restaurant,Shoe Store,Park,Building
+Bronx,Van Nest,40.84360847124722,-73.86629918075617,0,Pizza Place,Deli / Bodega,Bakery,Coffee Shop,Donut Shop,Hookah Bar,Spa,Bus Station,Playground,Cosmetics Shop
+Bronx,Morris Park,40.847549063536384,-73.85040178030428,0,Pizza Place,Deli / Bodega,Burger Joint,Bakery,Donut Shop,Frozen Yogurt Shop,Supermarket,Smoke Shop,Mediterranean Restaurant,Coffee Shop
+Bronx,Belmont,40.857277100738976,-73.88845196134812,9,Italian Restaurant,Pizza Place,Deli / Bodega,Bakery,Grocery Store,Dessert Shop,Donut Shop,Food & Drink Shop,Café,Sandwich Place
+Bronx,Spuyten Duyvil,40.8813949772709,-73.91719048210399,9,Park,Pharmacy,Grocery Store,Bus Line,Thai Restaurant,Tennis Stadium,Bank,Yoga Studio,Filipino Restaurant,Factory
+Bronx,North Riverdale,40.9085428295067,-73.90453054908934,0,Pizza Place,Italian Restaurant,Food,Donut Shop,Mexican Restaurant,Bank,Bagel Shop,Coffee Shop,Mobile Phone Shop,Pharmacy
+Bronx,Pelham Bay,40.850641409403394,-73.83207378240479,9,Italian Restaurant,Convenience Store,Gym / Fitness Center,Fast Food Restaurant,Sandwich Place,Donut Shop,Bank,Bus Stop,Lawyer,BBQ Joint
+Bronx,Schuylerville,40.82657951686926,-73.82620275994081,0,Pharmacy,Mexican Restaurant,Pizza Place,Convenience Store,Bar,Bank,Fast Food Restaurant,Sandwich Place,Donut Shop,Hookah Bar
+Bronx,Edgewater Park,40.82198611816354,-73.81388514428627,0,Deli / Bodega,Italian Restaurant,Pizza Place,Chinese Restaurant,Fast Food Restaurant,Coffee Shop,Sports Bar,Pub,American Restaurant,Park
+Bronx,Castle Hill,40.819014376988356,-73.84802729582742,0,Latin American Restaurant,Market,Mobile Phone Shop,Pizza Place,Bus Stop,Diner,Pharmacy,Deli / Bodega,Bank,Falafel Restaurant
+Bronx,Olinville,40.87137078192375,-73.86332361652785,3,Caribbean Restaurant,Furniture / Home Store,Food,Supermarket,Basketball Court,Fast Food Restaurant,Laundromat,Chinese Restaurant,Fried Chicken Joint,Deli / Bodega
+Bronx,Pelham Gardens,40.86296562478002,-73.8416119483123,0,Donut Shop,Bus Station,Pharmacy,Rental Car Location,Food,Spanish Restaurant,Boat or Ferry,Café,Grocery Store,Chinese Restaurant
+Bronx,Concourse,40.83428380733855,-73.91558941773452,0,Italian Restaurant,Bakery,Pizza Place,Supermarket,Art Museum,Chinese Restaurant,Check Cashing Service,Caribbean Restaurant,Pharmacy,Liquor Store
+Bronx,Unionport,40.829774297871644,-73.85053524451942,0,Donut Shop,Latin American Restaurant,Comfort Food Restaurant,Caribbean Restaurant,Mobile Phone Shop,Electronics Store,Bakery,Seafood Restaurant,Lounge,Fast Food Restaurant
+Bronx,Edenwald,40.88456130303736,-73.84808271877175,3,Chinese Restaurant,Grocery Store,Food,Bus Station,Fish Market,Supermarket,Deli / Bodega,Design Studio,Flea Market,Farm
+Brooklyn,Bay Ridge,40.625801065010684,-74.0306206935382,9,Italian Restaurant,Pizza Place,Spa,Bagel Shop,Greek Restaurant,Diner,American Restaurant,Bar,Grocery Store,Seafood Restaurant
+Brooklyn,Bensonhurst,40.61100890202048,-73.99517998380736,0,Chinese Restaurant,Pizza Place,Bakery,Ice Cream Shop,Sushi Restaurant,Coffee Shop,Bagel Shop,Pharmacy,Dumpling Restaurant,Russian Restaurant
+Brooklyn,Sunset Park,40.64510294925433,-74.01031618527792,0,Latin American Restaurant,Pizza Place,Mexican Restaurant,Bank,Bakery,Pharmacy,Mobile Phone Shop,Gym,Breakfast Spot,Donut Shop
+Brooklyn,Greenpoint,40.73020098486474,-73.954240931274,9,Bar,Pizza Place,Coffee Shop,Cocktail Bar,Café,Yoga Studio,Bakery,French Restaurant,Mexican Restaurant,Record Shop
+Brooklyn,Gravesend,40.59526001306597,-73.97347087708451,0,Bakery,Chinese Restaurant,Italian Restaurant,Lounge,Bus Station,Pizza Place,Donut Shop,Grocery Store,Pharmacy,Bar
+Brooklyn,Brighton Beach,40.57682506566609,-73.96509448785343,9,Restaurant,Eastern European Restaurant,Beach,Bank,Russian Restaurant,Sushi Restaurant,Fast Food Restaurant,Pharmacy,Gourmet Shop,Mobile Phone Shop
+Brooklyn,Sheepshead Bay,40.58689012678388,-73.94318640482987,9,Dessert Shop,Turkish Restaurant,Sandwich Place,Yoga Studio,Russian Restaurant,Café,Boat or Ferry,Miscellaneous Shop,Chinese Restaurant,Grocery Store
+Brooklyn,Manhattan Terrace,40.614432513351026,-73.95743840559945,0,Pizza Place,Coffee Shop,Donut Shop,Steakhouse,Convenience Store,Gourmet Shop,Chinese Restaurant,Shipping Store,Bank,Mobile Phone Shop
+Brooklyn,Flatbush,40.63632589026681,-73.95840106533913,0,Coffee Shop,Chinese Restaurant,Mexican Restaurant,Deli / Bodega,Pharmacy,Caribbean Restaurant,Plaza,Middle Eastern Restaurant,Bank,Bagel Shop
+Brooklyn,Crown Heights,40.67082917695298,-73.9432911907359,0,Pizza Place,Café,Museum,Supermarket,Bagel Shop,Playground,Salon / Barbershop,Pharmacy,Coffee Shop,Park
+Brooklyn,East Flatbush,40.64171776668965,-73.93610256185843,3,Chinese Restaurant,Caribbean Restaurant,Check Cashing Service,Park,Moving Target,Print Shop,Fast Food Restaurant,Food,Pharmacy,Hardware Store
+Brooklyn,Kensington,40.64238195800357,-73.98042110559481,9,Grocery Store,Thai Restaurant,Ice Cream Shop,Restaurant,Pizza Place,Sandwich Place,Food Truck,Lingerie Store,Liquor Store,Gym
+Brooklyn,Windsor Terrace,40.656945835751074,-73.98007340430179,9,Deli / Bodega,Diner,Park,Plaza,Food Truck,Café,Sushi Restaurant,Bookstore,Moving Target,Arts & Crafts Store
+Brooklyn,Prospect Heights,40.676822262254774,-73.96485924262697,9,Bar,Thai Restaurant,Mexican Restaurant,Cocktail Bar,Wine Shop,Gourmet Shop,Bakery,American Restaurant,Southern / Soul Food Restaurant,New American Restaurant
+Brooklyn,Brownsville,40.663949943397576,-73.91023536176615,9,Restaurant,Moving Target,Park,Donut Shop,Spanish Restaurant,Chinese Restaurant,Men's Store,Trail,Pizza Place,Playground
+Brooklyn,Williamsburg,40.70714439344255,-73.95811529220936,9,Bagel Shop,Bar,Coffee Shop,Burger Joint,Liquor Store,Lounge,Gym,Grocery Store,Middle Eastern Restaurant,Taco Place
+Brooklyn,Bushwick,40.69811611017905,-73.92525797487053,9,Bar,Mexican Restaurant,Deli / Bodega,Pizza Place,Thrift / Vintage Store,Coffee Shop,Bakery,Discount Store,New American Restaurant,Shoe Store
+Brooklyn,Bedford Stuyvesant,40.6872316077205,-73.94178488690305,9,Coffee Shop,Bar,Pizza Place,Café,Cocktail Bar,Boutique,Basketball Court,Thrift / Vintage Store,New American Restaurant,Bagel Shop
+Brooklyn,Brooklyn Heights,40.695863722724134,-73.99378225496432,9,Yoga Studio,Italian Restaurant,Deli / Bodega,Park,Cosmetics Shop,Gym,Thai Restaurant,Bakery,Gym / Fitness Center,Bar
+Brooklyn,Cobble Hill,40.68791972248561,-73.99856139218471,9,Pizza Place,Bar,Ice Cream Shop,Coffee Shop,Playground,Italian Restaurant,Deli / Bodega,Cocktail Bar,Yoga Studio,Middle Eastern Restaurant
+Brooklyn,Carroll Gardens,40.682131885641844,-74.00037274122077,9,Coffee Shop,Bakery,Italian Restaurant,Bar,Gym / Fitness Center,Pizza Place,Wine Shop,Yoga Studio,Ice Cream Shop,Deli / Bodega
+Brooklyn,Red Hook,40.67625323025092,-74.01275897473569,9,Art Gallery,Seafood Restaurant,Park,Café,American Restaurant,Wine Shop,Ice Cream Shop,Farm,Bagel Shop,Flower Shop
+Brooklyn,Gowanus,40.673931143187204,-73.99444087145346,9,Italian Restaurant,Bar,Furniture / Home Store,Gym / Fitness Center,Coffee Shop,Rental Car Location,Chinese Restaurant,Art Gallery,Food Truck,Mexican Restaurant
+Brooklyn,Fort Greene,40.688527260189815,-73.97290574369099,9,Coffee Shop,Pizza Place,Flower Shop,Italian Restaurant,Cocktail Bar,Spa,French Restaurant,Mexican Restaurant,New American Restaurant,Opera House
+Brooklyn,Park Slope,40.672320522682014,-73.97705030183931,9,American Restaurant,Coffee Shop,Burger Joint,Pizza Place,Italian Restaurant,Japanese Restaurant,Falafel Restaurant,Bookstore,Bakery,Bagel Shop
+Brooklyn,Cypress Hills,40.6846357939163,-73.87583132262634,3,Latin American Restaurant,Deli / Bodega,Chinese Restaurant,Donut Shop,Fried Chicken Joint,Discount Store,Food,South American Restaurant,Caribbean Restaurant,Pizza Place
+Brooklyn,East New York,40.66992570084708,-73.88069863917373,0,Deli / Bodega,Spanish Restaurant,Event Service,Convenience Store,Metro Station,Caribbean Restaurant,Pizza Place,Fast Food Restaurant,Latin American Restaurant,Chinese Restaurant
+Brooklyn,Starrett City,40.64758905230878,-73.87936970045881,0,Bus Stop,Cosmetics Shop,Pharmacy,Shopping Mall,Donut Shop,Caribbean Restaurant,Gym,Shoe Store,Pizza Place,Supermarket
+Brooklyn,Canarsie,40.63556432797432,-73.90209269778974,3,Caribbean Restaurant,Gym,Asian Restaurant,Chinese Restaurant,Yoga Studio,Fish & Chips Shop,Factory,Falafel Restaurant,Farm,Farmers Market
+Brooklyn,Flatlands,40.6304460437575,-73.92911302644681,9,Pharmacy,Fast Food Restaurant,Caribbean Restaurant,Fried Chicken Joint,Video Store,Check Cashing Service,Lounge,Park,Paper / Office Supplies Store,Electronics Store
+Brooklyn,Mill Island,40.60633642168567,-73.90818571777432,9,Food,Pool,Lake,Yoga Studio,Fish & Chips Shop,Eye Doctor,Factory,Falafel Restaurant,Farm,Farmers Market
+Brooklyn,Manhattan Beach,40.57791350308661,-73.94353722891893,2,Café,Bus Stop,Beach,Food,Ice Cream Shop,Playground,Sandwich Place,Yoga Studio,Factory,Falafel Restaurant
+Brooklyn,Coney Island,40.574292564716046,-73.98868295821644,9,Monument / Landmark,Caribbean Restaurant,Baseball Stadium,Gourmet Shop,Sandwich Place,Pizza Place,Pharmacy,Other Great Outdoors,Beach,Cosmetics Shop
+Brooklyn,Bath Beach,40.599518702822415,-73.99875221443526,9,Pharmacy,Donut Shop,Chinese Restaurant,Kids Store,Fast Food Restaurant,Sushi Restaurant,Italian Restaurant,German Restaurant,Bagel Shop,Bakery
+Brooklyn,Borough Park,40.63313051275804,-73.99049823044818,0,Bank,Fast Food Restaurant,Pizza Place,Restaurant,Bakery,Pharmacy,Hotel,Bistro,Bike Shop,Smoothie Shop
+Brooklyn,Dyker Heights,40.61921945772268,-74.01931375636029,9,Bagel Shop,Burger Joint,Park,Golf Course,Hot Dog Joint,Dance Studio,Food Stand,Fountain,Eye Doctor,Factory
+Brooklyn,Gerritsen Beach,40.590848433902075,-73.93010170691203,9,Bar,Harbor / Marina,Event Space,Pizza Place,Liquor Store,Seafood Restaurant,Boat or Ferry,Bagel Shop,Martial Arts Dojo,Convenience Store
+Brooklyn,Marine Park,40.60974777989464,-73.93134404108504,0,Baseball Field,Deli / Bodega,Basketball Court,Gym,Ice Cream Shop,Soccer Field,Pizza Place,Athletics & Sports,Film Studio,Factory
+Brooklyn,Clinton Hill,40.69322942188155,-73.96784306216374,9,Italian Restaurant,Pizza Place,Yoga Studio,Thai Restaurant,Restaurant,Mexican Restaurant,Grocery Store,Cocktail Bar,Japanese Restaurant,Wine Shop
+Brooklyn,Sea Gate,40.576375378902284,-74.00787311200247,9,Sports Club,Optical Shop,Beach,Bus Station,Spa,Video Store,Yoga Studio,Fish & Chips Shop,Factory,Falafel Restaurant
+Brooklyn,Downtown,40.69084402109806,-73.98346337431107,9,Burger Joint,Sandwich Place,Bakery,Spa,Diner,Coffee Shop,Cocktail Bar,Martial Arts Dojo,Bagel Shop,Grocery Store
+Brooklyn,Boerum Hill,40.687241380657376,-73.98357724689187,9,Coffee Shop,Bar,Spa,Grocery Store,French Restaurant,Gym / Fitness Center,Gift Shop,Martial Arts Dojo,Middle Eastern Restaurant,Furniture / Home Store
+Brooklyn,Prospect Lefferts Gardens,40.65842001746986,-73.95489867077721,9,Caribbean Restaurant,Bakery,Café,Pizza Place,Ice Cream Shop,Spanish Restaurant,Wine Shop,Indian Restaurant,Sushi Restaurant,Supermarket
+Brooklyn,Ocean Hill,40.6784025547954,-73.91306831787405,3,Deli / Bodega,Convenience Store,Playground,Southern / Soul Food Restaurant,Bus Stop,Fried Chicken Joint,Intersection,Market,Donut Shop,Salad Place
+Brooklyn,City Line,40.67856995727482,-73.86797598081344,9,Shoe Store,Donut Shop,Liquor Store,Pharmacy,Food Truck,Bakery,Flower Shop,Deli / Bodega,Fast Food Restaurant,Bank
+Brooklyn,Bergen Beach,40.61514955045313,-73.89855633630323,9,Harbor / Marina,Baseball Field,Park,Playground,Athletics & Sports,Donut Shop,Film Studio,Factory,Falafel Restaurant,Farm
+Brooklyn,Midwood,40.62559589869847,-73.95759523489845,0,Pizza Place,Italian Restaurant,Video Game Store,Field,Candy Store,Falafel Restaurant,Mediterranean Restaurant,Bakery,Pharmacy,Bagel Shop
+Brooklyn,Prospect Park South,40.64700860318523,-73.96261316716055,0,Caribbean Restaurant,Fast Food Restaurant,Pizza Place,Pharmacy,Mobile Phone Shop,Clothing Store,Grocery Store,Latin American Restaurant,Donut Shop,Mattress Store
+Brooklyn,Georgetown,40.62384524478424,-73.91607483951331,9,Breakfast Spot,Donut Shop,Pharmacy,Bank,American Restaurant,Miscellaneous Shop,Shopping Mall,Chinese Restaurant,Supplement Shop,Shoe Store
+Brooklyn,Spring Creek,40.657139276582775,-73.86998779106547,9,Discount Store,Women's Store,Mobile Phone Shop,Kids Store,Clothing Store,Furniture / Home Store,Shopping Mall,Caribbean Restaurant,Bakery,Health & Beauty Service
+Brooklyn,East Williamsburg,40.70849241041552,-73.93885815269203,9,Bar,Deli / Bodega,Cocktail Bar,Coffee Shop,Bakery,Concert Hall,Music Venue,Sandwich Place,Gym / Fitness Center,Vegetarian / Vegan Restaurant
+Brooklyn,North Side,40.714822906532056,-73.95880857587589,9,Coffee Shop,American Restaurant,Yoga Studio,Bar,Pizza Place,Cocktail Bar,Burger Joint,Jewelry Store,French Restaurant,Vegetarian / Vegan Restaurant
+Brooklyn,South Side,40.710861472650684,-73.95800095153338,9,Bar,Pizza Place,Coffee Shop,American Restaurant,Burger Joint,Chinese Restaurant,Breakfast Spot,Yoga Studio,BBQ Joint,Korean Restaurant
+Brooklyn,Navy Yard,40.698790872180545,-73.97164435527614,9,Film Studio,Coffee Shop,Boxing Gym,History Museum,Thai Restaurant,Bank,Farm,Mexican Restaurant,Trail,Pier
+Brooklyn,Ocean Parkway,40.613059766679456,-73.96836678035548,9,Restaurant,Sake Bar,Sushi Restaurant,Gym,Paper / Office Supplies Store,Gift Shop,Bagel Shop,General Entertainment,Liquor Store,Donut Shop
+Brooklyn,Fort Hamilton,40.614768126942295,-74.0319791453799,9,Pizza Place,Sandwich Place,Café,Diner,Pharmacy,Steakhouse,Park,Japanese Restaurant,Chinese Restaurant,Italian Restaurant
+Manhattan,Chinatown,40.715618422314364,-73.99427936255984,9,Chinese Restaurant,Bubble Tea Shop,American Restaurant,Dim Sum Restaurant,Cocktail Bar,Vietnamese Restaurant,Noodle House,Salon / Barbershop,Bakery,Hotpot Restaurant
+Manhattan,Washington Heights,40.85190252555309,-73.93690027985242,9,Café,Bakery,Mobile Phone Shop,Pizza Place,Italian Restaurant,Chinese Restaurant,Supermarket,Latin American Restaurant,Deli / Bodega,Mexican Restaurant
+Manhattan,Inwood,40.867683964499186,-73.92121042203905,9,Café,Mexican Restaurant,Lounge,Pizza Place,American Restaurant,Bakery,Deli / Bodega,Park,Frozen Yogurt Shop,Chinese Restaurant
+Manhattan,Hamilton Heights,40.82360428481197,-73.94968791883373,9,Mexican Restaurant,Deli / Bodega,Pizza Place,Coffee Shop,Café,Liquor Store,Indian Restaurant,Sandwich Place,Cocktail Bar,School
+Manhattan,Manhattanville,40.81693442949784,-73.95738539351888,9,Deli / Bodega,Italian Restaurant,Seafood Restaurant,Mexican Restaurant,Chinese Restaurant,Japanese Curry Restaurant,Bike Trail,Lounge,Park,Coffee Shop
+Manhattan,Central Harlem,40.81597606742418,-73.94321112603912,9,African Restaurant,French Restaurant,Cosmetics Shop,American Restaurant,Chinese Restaurant,Seafood Restaurant,Gym / Fitness Center,Dessert Shop,Gym,Bar
+Manhattan,East Harlem,40.792249466630366,-73.94418223148531,9,Mexican Restaurant,Bakery,Deli / Bodega,Latin American Restaurant,Thai Restaurant,Chinese Restaurant,Grocery Store,Beer Bar,Taco Place,French Restaurant
+Manhattan,Upper East Side,40.77563857330185,-73.96050763135005,9,Italian Restaurant,Exhibit,Art Gallery,Juice Bar,Coffee Shop,Bakery,Hotel,Gym / Fitness Center,French Restaurant,Boutique
+Manhattan,Yorkville,40.77592984988492,-73.94711784471833,9,Italian Restaurant,Gym,Bar,Coffee Shop,Pizza Place,Sushi Restaurant,Deli / Bodega,Mexican Restaurant,Japanese Restaurant,Thai Restaurant
+Manhattan,Lenox Hill,40.768112658287365,-73.95885968813765,9,Italian Restaurant,Coffee Shop,Sushi Restaurant,Gym / Fitness Center,Pizza Place,Sporting Goods Shop,Gym,Burger Joint,Steakhouse,Bakery
+Manhattan,Roosevelt Island,40.762403730702246,-73.9494705736962,9,Park,Sandwich Place,Deli / Bodega,Greek Restaurant,Scenic Lookout,School,Liquor Store,Coffee Shop,Gym,Residential Building (Apartment / Condo)
+Manhattan,Upper West Side,40.7876579985349,-73.97705923630609,9,Italian Restaurant,Bar,Vegetarian / Vegan Restaurant,Indian Restaurant,Wine Bar,Bakery,Burger Joint,Coffee Shop,Mediterranean Restaurant,Dessert Shop
+Manhattan,Lincoln Square,40.773528889421705,-73.9853377700127,9,Gym / Fitness Center,Theater,Plaza,Italian Restaurant,Concert Hall,Café,French Restaurant,Park,Indie Movie Theater,Performing Arts Venue
+Manhattan,Clinton,40.7583336869064,-73.99640768221386,9,Theater,American Restaurant,Italian Restaurant,Gym,Hotel,Gym / Fitness Center,Spa,Performing Arts Venue,Lounge,Dog Run
+Manhattan,Midtown,40.754691102706275,-73.98166882730311,9,Hotel,Clothing Store,Theater,Coffee Shop,Steakhouse,Park,Food Truck,Bookstore,Bakery,Sporting Goods Shop
+Manhattan,Murray Hill,40.748303077252224,-73.97833207924134,9,Korean Restaurant,Coffee Shop,Bar,Japanese Restaurant,Hotel,Gym,Pub,Bakery,Italian Restaurant,French Restaurant
+Manhattan,Chelsea,40.744034706748025,-74.0031163347282,9,Coffee Shop,Italian Restaurant,Ice Cream Shop,American Restaurant,Bakery,Nightclub,Hotel,Seafood Restaurant,Theater,Market
+Manhattan,Greenwich Village,40.72693288536132,-73.99991402945909,9,Italian Restaurant,Sushi Restaurant,Clothing Store,French Restaurant,Seafood Restaurant,Indian Restaurant,Boutique,Chinese Restaurant,Café,Yoga Studio
+Manhattan,East Village,40.72784677727029,-73.98222616506425,9,Ice Cream Shop,Bar,Wine Bar,Cocktail Bar,Mexican Restaurant,Chinese Restaurant,Ramen Restaurant,Pizza Place,Record Shop,Vegetarian / Vegan Restaurant
+Manhattan,Lower East Side,40.717806748927686,-73.98089031999298,9,Café,Coffee Shop,Japanese Restaurant,Park,Bakery,Shoe Store,Chinese Restaurant,Theater,Cocktail Bar,Art Gallery
+Manhattan,Tribeca,40.72152196744325,-74.01068328559093,9,Italian Restaurant,American Restaurant,Park,Café,Spa,Wine Bar,Boutique,Coffee Shop,Greek Restaurant,Gym
+Manhattan,Little Italy,40.719323793959106,-73.99730467208079,9,Bakery,Café,Ice Cream Shop,Bubble Tea Shop,Seafood Restaurant,Sandwich Place,Salon / Barbershop,Chinese Restaurant,Yoga Studio,Japanese Restaurant
+Manhattan,Soho,40.72218384131798,-74.00065666959766,9,Clothing Store,Boutique,Women's Store,Men's Store,Shoe Store,Art Gallery,Italian Restaurant,Coffee Shop,Mediterranean Restaurant,Yoga Studio
+Manhattan,West Village,40.734433935724375,-74.00617998126819,9,Italian Restaurant,Cosmetics Shop,New American Restaurant,Wine Bar,Jazz Club,Gastropub,French Restaurant,Bakery,Park,American Restaurant
+Manhattan,Manhattan Valley,40.7973070417029,-73.96428617740662,9,Coffee Shop,Pizza Place,Yoga Studio,Mexican Restaurant,Spa,Thai Restaurant,Café,Bar,Deli / Bodega,Playground
+Manhattan,Morningside Heights,40.80799973816586,-73.96389627905339,9,Coffee Shop,Food Truck,Bookstore,American Restaurant,Park,Burger Joint,Sandwich Place,Deli / Bodega,Tennis Court,Greek Restaurant
+Manhattan,Gramercy,40.737209832715045,-73.98137594833548,9,Italian Restaurant,Bagel Shop,Wine Shop,American Restaurant,Cocktail Bar,Coffee Shop,Grocery Store,Thrift / Vintage Store,Mexican Restaurant,Pizza Place
+Manhattan,Battery Park City,40.71193198394569,-74.01686930508625,9,Coffee Shop,Park,Hotel,Wine Shop,Italian Restaurant,Sandwich Place,Women's Store,Food Court,Fountain,Clothing Store
+Manhattan,Financial District,40.707107107270524,-74.01066544521277,9,Coffee Shop,Hotel,Gym,Wine Shop,Bar,Steakhouse,Café,Pizza Place,Food Truck,Italian Restaurant
+Queens,Astoria,40.768508593354966,-73.9156537430424,9,Middle Eastern Restaurant,Bar,Greek Restaurant,Hookah Bar,Bakery,Seafood Restaurant,Pub,Italian Restaurant,Bubble Tea Shop,Gourmet Shop
+Queens,Woodside,40.746349088602265,-73.9018416683829,9,Grocery Store,Pub,Thai Restaurant,Deli / Bodega,Latin American Restaurant,Pizza Place,Donut Shop,American Restaurant,Bar,Bakery
+Queens,Jackson Heights,40.75198138007372,-73.88282109164372,9,Latin American Restaurant,South American Restaurant,Peruvian Restaurant,Mobile Phone Shop,Bakery,Mexican Restaurant,Diner,Thai Restaurant,Supermarket,Grocery Store
+Queens,Elmhurst,40.74404850512207,-73.88165622288395,9,Thai Restaurant,Mexican Restaurant,Chinese Restaurant,Bubble Tea Shop,Vietnamese Restaurant,South American Restaurant,Bar,Argentinian Restaurant,Bank,Malay Restaurant
+Queens,Howard Beach,40.654225277384896,-73.83813764600289,9,Italian Restaurant,Pharmacy,Sandwich Place,Bagel Shop,Fast Food Restaurant,Breakfast Spot,Spa,Gym / Fitness Center,Market,Mexican Restaurant
+Queens,South Corona,40.7423817501567,-73.85682497345266,9,Mexican Restaurant,Supermarket,Video Store,South American Restaurant,Park,Chinese Restaurant,Empanada Restaurant,Pizza Place,Sandwich Place,Donut Shop
+Queens,Forest Hills,40.725263782165065,-73.84447500788991,9,Gym,Convenience Store,Thai Restaurant,Park,Gym / Fitness Center,Pharmacy,Pizza Place,Yoga Studio,Peruvian Restaurant,Supermarket
+Queens,Kew Gardens,40.70517903541485,-73.82981905825709,9,Chinese Restaurant,Donut Shop,Bar,Pet Store,Pizza Place,Indian Restaurant,Bank,South American Restaurant,Pub,Liquor Store
+Queens,Richmond Hill,40.69794731471767,-73.83183321446894,0,Lounge,Discount Store,Pizza Place,Latin American Restaurant,Supermarket,Donut Shop,Spanish Restaurant,Caribbean Restaurant,Park,Metro Station
+Queens,Downtown Flushing,40.761163620818756,-73.82936758711861,3,Chinese Restaurant,Bubble Tea Shop,Korean Restaurant,Dumpling Restaurant,Hotpot Restaurant,Bakery,Karaoke Bar,Asian Restaurant,Ice Cream Shop,Dessert Shop
+Queens,Long Island City,40.750217346105316,-73.93920223915512,9,Coffee Shop,Hotel,Mexican Restaurant,Pizza Place,Café,Bar,Gym / Fitness Center,Food Truck,Gym,Donut Shop
+Queens,Sunnyside,40.74017628351928,-73.92691617561584,9,Pizza Place,Chinese Restaurant,Italian Restaurant,Discount Store,South American Restaurant,Hotel,Taco Place,Bakery,Grocery Store,Coffee Shop
+Queens,East Elmhurst,40.76407323883095,-73.8670414765878,9,Donut Shop,Rental Car Location,Hotel Bar,Supermarket,Gas Station,Café,Snack Place,Gym,Coffee Shop,Lake
+Queens,Maspeth,40.72542737409365,-73.89621713626867,0,Deli / Bodega,Pizza Place,Diner,Mobile Phone Shop,Bank,Grocery Store,Sandwich Place,Bakery,Pharmacy,Taco Place
+Queens,Ridgewood,40.70832315613862,-73.90143517559595,0,Bank,Deli / Bodega,Pizza Place,Greek Restaurant,Grocery Store,Pharmacy,Egyptian Restaurant,Sushi Restaurant,Sandwich Place,Pet Store
+Queens,Glendale,40.702762429678415,-73.87074167435614,9,Brewery,Park,Food & Drink Shop,Arts & Crafts Store,Bakery,Fish & Chips Shop,Factory,Falafel Restaurant,Farm,Farmers Market
+Queens,Rego Park,40.72897409480739,-73.85782686905377,9,Bakery,Grocery Store,Chinese Restaurant,Sandwich Place,Pharmacy,Donut Shop,Restaurant,Pizza Place,Sushi Restaurant,Shanghai Restaurant
+Queens,Woodhaven,40.68988687915793,-73.85811046554328,0,Bank,Deli / Bodega,Park,Pharmacy,Donut Shop,Fast Food Restaurant,Mexican Restaurant,Metro Station,Thai Restaurant,Shoe Store
+Queens,Ozone Park,40.680708468265465,-73.84320266173454,0,Pharmacy,Gym,Diner,Bank,Pizza Place,Bowling Alley,Furniture / Home Store,Fast Food Restaurant,Mobile Phone Shop,Donut Shop
+Queens,South Ozone Park,40.66854957767199,-73.8098647864905,9,Bar,Park,Deli / Bodega,Hotel,Fast Food Restaurant,Donut Shop,Sandwich Place,Food Truck,Food Service,Filipino Restaurant
+Queens,College Point,40.78490274926025,-73.84304528896132,0,Deli / Bodega,Pizza Place,Park,Pharmacy,Chinese Restaurant,Supermarket,Latin American Restaurant,Taco Place,Fast Food Restaurant,Caribbean Restaurant
+Queens,Whitestone,40.78129076602698,-73.8142021661087,3,Train,Deli / Bodega,Bubble Tea Shop,Moving Target,Yoga Studio,Fish Market,Factory,Falafel Restaurant,Farm,Farmers Market
+Queens,Bayside,40.76604063281068,-73.77427363068676,9,Bar,Indian Restaurant,Donut Shop,American Restaurant,Pizza Place,Spa,Pub,Sushi Restaurant,Bakery,Greek Restaurant
+Queens,Auburndale,40.761729549032665,-73.79176243728068,9,Supermarket,Discount Store,Pet Store,Pharmacy,Toy / Game Store,Fast Food Restaurant,Miscellaneous Shop,Train Station,Mobile Phone Shop,Athletics & Sports
+Queens,Little Neck,40.770826192826746,-73.73889775580747,9,Bakery,Italian Restaurant,Chinese Restaurant,Coffee Shop,Korean Restaurant,Deli / Bodega,Shanghai Restaurant,Bank,Bar,Thai Restaurant
+Queens,Douglaston,40.76684609790768,-73.74249820727339,9,Italian Restaurant,Deli / Bodega,Chinese Restaurant,Yoga Studio,Lounge,Convenience Store,Diner,Donut Shop,Pharmacy,Shipping Store
+Queens,Glen Oaks,40.74944079974336,-73.71548118999151,0,Pharmacy,Bank,Fast Food Restaurant,Park,Clothing Store,Shoe Store,Mexican Restaurant,Bakery,Bagel Shop,Middle Eastern Restaurant
+Queens,Bellerose,40.72857318176679,-73.7201281482691,0,Pizza Place,Chinese Restaurant,Italian Restaurant,Deli / Bodega,Diner,Gym,Grocery Store,Bank,Liquor Store,Motel
+Queens,Kew Gardens Hills,40.722578244228075,-73.82087764933574,0,Pizza Place,Bank,Playground,Bus Station,Middle Eastern Restaurant,Convenience Store,Candy Store,Deli / Bodega,Wine Bar,Dance Studio
+Queens,Fresh Meadows,40.73439446533133,-73.7827133700327,3,Bus Station,Chinese Restaurant,Pharmacy,Grocery Store,Train,Pizza Place,Playground,Vegetarian / Vegan Restaurant,Food Truck,Moving Target
+Queens,Briarwood,40.710935472522756,-73.81174822458641,9,Food Truck,Deli / Bodega,Fast Food Restaurant,Arts & Crafts Store,Pet Store,Mexican Restaurant,Indian Restaurant,Gym,Plaza,Bus Station
+Queens,Jamaica Center,40.704657360687214,-73.79690165888294,9,Mobile Phone Shop,Clothing Store,Coffee Shop,Caribbean Restaurant,Sandwich Place,Performing Arts Venue,Pizza Place,Mexican Restaurant,Donut Shop,American Restaurant
+Queens,Oakland Gardens,40.745618571418575,-73.75494976234339,3,Chinese Restaurant,Korean Restaurant,Yoga Studio,Donut Shop,Bagel Shop,Deli / Bodega,Dessert Shop,Pizza Place,Sandwich Place,Pharmacy
+Queens,Queens Village,40.7188930921674,-73.73871484578433,0,Bank,Bus Stop,Donut Shop,Martial Arts Dojo,Mexican Restaurant,Bakery,Fast Food Restaurant,Mobile Phone Shop,Filipino Restaurant,Pizza Place
+Queens,Hollis,40.71124344191908,-73.75925009335602,9,Baseball Field,Sandwich Place,Fried Chicken Joint,Shopping Mall,Grocery Store,Lounge,Park,Electronics Store,Fast Food Restaurant,Mobile Phone Shop
+Queens,South Jamaica,40.69691125378992,-73.79042613135549,9,Bus Station,Bakery,Ice Cream Shop,Bus Line,Grocery Store,Park,Caribbean Restaurant,Supermarket,Diner,Dim Sum Restaurant
+Queens,St. Albans,40.69444538522363,-73.75867603727725,3,Caribbean Restaurant,Deli / Bodega,Fried Chicken Joint,Market,Convenience Store,Discount Store,Donut Shop,Seafood Restaurant,Shopping Mall,Chinese Restaurant
+Queens,Rochdale,40.675211395917366,-73.77258787620913,9,Market,Laundromat,Fast Food Restaurant,Bank,Breakfast Spot,Chinese Restaurant,Pharmacy,Food Court,Bus Stop,Sandwich Place
+Queens,Springfield Gardens,40.66623049036863,-73.76042092682295,3,Fried Chicken Joint,Donut Shop,Bus Station,Check Cashing Service,Shoe Store,Gym,Liquor Store,Park,Fast Food Restaurant,Laundromat
+Queens,Cambria Heights,40.69277463916089,-73.73526873708033,9,Caribbean Restaurant,Cosmetics Shop,Flower Shop,Liquor Store,Bus Stop,Moving Target,Bus Station,Bakery,Restaurant,Pharmacy
+Queens,Rosedale,40.65981643342812,-73.73526079428285,3,Fried Chicken Joint,Supermarket,Bus Station,Pharmacy,Caribbean Restaurant,Sandwich Place,Baseball Field,Chinese Restaurant,Accessories Store,Deli / Bodega
+Queens,Far Rockaway,40.60313443250093,-73.7549796804388,0,Grocery Store,Pizza Place,Pharmacy,Chinese Restaurant,Supermarket,Fast Food Restaurant,Breakfast Spot,Deli / Bodega,American Restaurant,Other Great Outdoors
+Queens,Broad Channel,40.60302658351242,-73.82005489110327,0,Deli / Bodega,Pizza Place,Other Nightlife,Dive Bar,Yoga Studio,Fish Market,Factory,Falafel Restaurant,Farm,Farmers Market
+Queens,Breezy Point,40.557401288454564,-73.92551196994177,9,Supermarket,Board Shop,Trail,Beach,Monument / Landmark,Fountain,Fish & Chips Shop,Frozen Yogurt Shop,Falafel Restaurant,Farm
+Queens,Steinway,40.77592301564293,-73.90228960391681,9,Rental Car Location,Cosmetics Shop,Deli / Bodega,Sushi Restaurant,Irish Pub,Chinese Restaurant,Grocery Store,Bakery,Bagel Shop,Café
+Queens,Beechhurst,40.79278140360052,-73.80436451720995,9,Gym,Yoga Studio,Boutique,Gym / Fitness Center,Frozen Yogurt Shop,Optical Shop,Pizza Place,Donut Shop,Dessert Shop,Deli / Bodega
+Queens,Bay Terrace,40.782842806245604,-73.77680222621588,9,Clothing Store,Supermarket,Donut Shop,Women's Store,Kids Store,Lingerie Store,Cosmetics Shop,Mobile Phone Shop,Gift Shop,American Restaurant
+Queens,Edgemere,40.595641807368544,-73.77613282391712,0,Pizza Place,Metro Station,Bus Station,Park,Asian Restaurant,Scenic Lookout,Farm,Seafood Restaurant,Gift Shop,Grocery Store
+Queens,Arverne,40.58914394372975,-73.7919923313695,9,Surf Spot,Metro Station,Pizza Place,Donut Shop,Sandwich Place,Beach,Playground,Thai Restaurant,Bed & Breakfast,Board Shop
+Queens,Seaside,40.58280169684563,-73.82236121088758,9,Beach,Ice Cream Shop,Deli / Bodega,Arepa Restaurant,Bus Station,BBQ Joint,Latin American Restaurant,Brazilian Restaurant,Pizza Place,Seafood Restaurant
+Queens,Neponsit,40.57203673021705,-73.85754672410836,5,Beach,Bar,Yoga Studio,Fish Market,Factory,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+Queens,Murray Hill,40.7641261226141,-73.81276269135874,9,Korean Restaurant,Coffee Shop,Bar,Japanese Restaurant,Hotel,Gym,Pub,Bakery,Italian Restaurant,French Restaurant
+Queens,Floral Park,40.74137842194548,-73.70884705889253,0,Indian Restaurant,Basketball Court,Pizza Place,Grocery Store,Hobby Shop,Salon / Barbershop,Yoga Studio,Filipino Restaurant,Eye Doctor,Factory
+Queens,Holliswood,40.72095720764445,-73.76714166714736,0,Pharmacy,Donut Shop,Mobile Phone Shop,Playground,Supermarket,Department Store,Design Studio,Factory,Falafel Restaurant,Farm
+Queens,Jamaica Estates,40.71680483014617,-73.78722696936667,9,Eye Doctor,Intersection,Indian Restaurant,Lounge,Bus Station,Yoga Studio,Fish & Chips Shop,Factory,Falafel Restaurant,Farm
+Queens,Queensboro Hill,40.744572309286745,-73.82580915110564,3,Chinese Restaurant,Bank,Bakery,Café,Bar,Bagel Shop,Fast Food Restaurant,Taiwanese Restaurant,Dumpling Restaurant,Asian Restaurant
+Queens,Hillcrest,40.72382490182924,-73.7976030091268,9,College Cafeteria,College Basketball Court,College Academic Building,Coffee Shop,Market,Shipping Store,Donut Shop,Food,Bookstore,Italian Restaurant
+Queens,Ravenswood,40.76170452605419,-73.93157506072886,9,Chinese Restaurant,Grocery Store,Brazilian Restaurant,Sushi Restaurant,Lounge,Bar,Market,Greek Restaurant,Taco Place,Fried Chicken Joint
+Queens,Lindenwood,40.66391841925143,-73.84963782402448,0,Bakery,Hotel,Bank,Gym,Park,Pizza Place,Fast Food Restaurant,Donut Shop,Pharmacy,Japanese Restaurant
+Queens,Laurelton,40.66788389660249,-73.7402560798983,9,Caribbean Restaurant,Train Station,Cosmetics Shop,Park,Sculpture Garden,Yoga Studio,Filipino Restaurant,Eye Doctor,Factory,Falafel Restaurant
+Queens,Lefrak City,40.736074570830844,-73.86252471413745,9,Department Store,Bakery,Cosmetics Shop,Frozen Yogurt Shop,Supermarket,Shopping Mall,Mexican Restaurant,Bank,Liquor Store,BBQ Joint
+Queens,Belle Harbor,40.57615556543113,-73.85401750392529,9,Beach,Deli / Bodega,Spa,Bagel Shop,Pub,Construction & Landscaping,Donut Shop,Pharmacy,Chinese Restaurant,Boutique
+Queens,Rockaway Park,40.58034295646135,-73.84153370226194,0,Beach,Ice Cream Shop,Pizza Place,Bank,Pharmacy,Mediterranean Restaurant,French Restaurant,Seafood Restaurant,Sandwich Place,Board Shop
+Queens,Somerville,40.59771061565772,-73.79664750844056,1,Park,Yoga Studio,Frozen Yogurt Shop,Exhibit,Eye Doctor,Factory,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+Queens,Brookville,40.660003227336155,-73.75175310731159,6,Deli / Bodega,Home Service,Yoga Studio,Fish Market,Eye Doctor,Factory,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+Queens,Bellaire,40.733014040278384,-73.73889198912487,3,Chinese Restaurant,Convenience Store,Grocery Store,Greek Restaurant,Moving Target,Bus Station,Construction & Landscaping,Laundromat,Deli / Bodega,Italian Restaurant
+Queens,North Corona,40.75407099904894,-73.85751790676454,0,Deli / Bodega,Bakery,Pizza Place,Gym / Fitness Center,South American Restaurant,Museum,Mexican Restaurant,Caribbean Restaurant,Mobile Phone Shop,Fast Food Restaurant
+Queens,Forest Hills Gardens,40.71461108151174,-73.84102211234017,9,Bakery,Grocery Store,Asian Restaurant,Donut Shop,Mexican Restaurant,Bagel Shop,Pharmacy,Tapas Restaurant,Sandwich Place,Pizza Place
+Staten Island,St. George,40.644981571004436,-74.07935312512805,9,Bar,Bus Stop,Scenic Lookout,Toy / Game Store,Tourist Information Center,Tapas Restaurant,Farmers Market,Donut Shop,Monument / Landmark,Pizza Place
+Staten Island,New Brighton,40.640614559135145,-74.08701650516633,2,Bus Stop,Park,Deli / Bodega,Chinese Restaurant,Playground,Discount Store,Convenience Store,Bowling Alley,Farmers Market,Fish Market
+Staten Island,Stapleton,40.626927625381796,-74.07790192660073,0,Pizza Place,Bank,Discount Store,Sandwich Place,Bus Stop,Fast Food Restaurant,Bar,Beer Bar,Mexican Restaurant,Miscellaneous Shop
+Staten Island,Rosebank,40.61530494652765,-74.06980526716148,0,Italian Restaurant,Pizza Place,Grocery Store,Deli / Bodega,Donut Shop,Mexican Restaurant,Pharmacy,Bagel Shop,Filipino Restaurant,Liquor Store
+Staten Island,West Brighton,40.63187892654611,-74.10718178265617,9,Coffee Shop,Music Store,Diner,Italian Restaurant,Bar,American Restaurant,Pharmacy,Sandwich Place,Fast Food Restaurant,Liquor Store
+Staten Island,Grymes Hill,40.62418479131304,-74.08724819983736,2,Dog Run,Basketball Court,Moving Target,Bus Stop,Flea Market,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+Staten Island,Todt Hill,40.597068518146756,-74.11132881800887,1,Park,Yoga Studio,Frozen Yogurt Shop,Exhibit,Eye Doctor,Factory,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+Staten Island,South Beach,40.5802474135096,-74.07955292539826,2,Pier,Deli / Bodega,Beach,Athletics & Sports,Bus Stop,Yoga Studio,Fish Market,Falafel Restaurant,Farm,Farmers Market
+Staten Island,Port Richmond,40.63366930554369,-74.12943426797015,0,Martial Arts Dojo,Donut Shop,Rental Car Location,Mexican Restaurant,Pizza Place,Yoga Studio,Eye Doctor,Factory,Falafel Restaurant,Farm
+Staten Island,Mariner's Harbor,40.632546390481174,-74.15008537046988,2,Italian Restaurant,Deli / Bodega,Bus Stop,French Restaurant,Fish Market,Factory,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+Staten Island,Port Ivory,40.63968297845546,-74.17464532993549,4,Bar,Yoga Studio,Exhibit,Factory,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field,Filipino Restaurant
+Staten Island,Castleton Corners,40.61333593766747,-74.1191805853485,0,Pizza Place,Bank,Board Shop,Grocery Store,Bagel Shop,Mini Golf,Coffee Shop,Go Kart Track,Sandwich Place,Tattoo Parlor
+Staten Island,New Springville,40.594252379161745,-74.16496031329834,9,Mobile Phone Shop,Soup Place,Donut Shop,Mexican Restaurant,Grocery Store,Coffee Shop,Bagel Shop,Pharmacy,Liquor Store,Sandwich Place
+Staten Island,Travis,40.586313751032854,-74.19073717538123,9,Deli / Bodega,Bowling Alley,Hotel,Comedy Club,Spanish Restaurant,Gym / Fitness Center,Gym,Park,Business Service,Baseball Field
+Staten Island,New Dorp,40.572572318206355,-74.11647943606387,9,Italian Restaurant,Pizza Place,Bank,Hobby Shop,Shipping Store,Mexican Restaurant,Bakery,Bagel Shop,Sandwich Place,Train Station
+Staten Island,Oakwood,40.55846224328885,-74.12156593771905,4,Bar,Yoga Studio,Exhibit,Factory,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field,Filipino Restaurant
+Staten Island,Great Kills,40.54948022871365,-74.14932381490998,9,Bar,Italian Restaurant,Pizza Place,Pharmacy,Sandwich Place,Grocery Store,Mexican Restaurant,Liquor Store,Train Station,Falafel Restaurant
+Staten Island,Eltingville,40.54223074745079,-74.16433080419367,0,Sushi Restaurant,Pizza Place,Liquor Store,Italian Restaurant,Fast Food Restaurant,Diner,Bank,Pharmacy,Deli / Bodega,Martial Arts Dojo
+Staten Island,Annadale,40.538114174745104,-74.17854866165884,0,Sports Bar,Restaurant,Dance Studio,Pizza Place,Cosmetics Shop,Liquor Store,Diner,Train Station,Yoga Studio,Fast Food Restaurant
+Staten Island,Woodrow,40.53745265012707,-74.22135055371615,2,Bus Stop,Gym / Fitness Center,Racetrack,Fish Market,Eye Doctor,Factory,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+Staten Island,Tottenville,40.50533376115647,-74.2465693423529,2,Italian Restaurant,Bus Stop,Deli / Bodega,Thrift / Vintage Store,Cosmetics Shop,Mexican Restaurant,Home Service,Fish Market,Falafel Restaurant,Farm
+Staten Island,Tompkinsville,40.637316067110355,-74.08055351790122,9,Sandwich Place,Brewery,Gastropub,Café,Grocery Store,Thrift / Vintage Store,Caribbean Restaurant,Pizza Place,Rock Club,Supermarket
+Staten Island,Silver Lake,40.6191931079268,-74.09629029235467,9,Golf Course,Burger Joint,American Restaurant,Coffee Shop,Gym,Yoga Studio,Factory,Falafel Restaurant,Farm,Farmers Market
+Staten Island,Sunnyside,40.612760157564935,-74.09712552178537,9,Pizza Place,Chinese Restaurant,Italian Restaurant,Discount Store,South American Restaurant,Hotel,Taco Place,Bakery,Grocery Store,Coffee Shop
+Brooklyn,Ditmas Park,40.64367518334101,-73.96101312466787,0,Caribbean Restaurant,Deli / Bodega,Donut Shop,Pizza Place,Pharmacy,Metro Station,Clothing Store,Food & Drink Shop,Tibetan Restaurant,Gym / Fitness Center
+Brooklyn,Wingate,40.66094656188115,-73.9371868055932,9,Fast Food Restaurant,Rental Car Location,Vietnamese Restaurant,Grocery Store,Hardware Store,Pharmacy,BBQ Joint,Liquor Store,Field,Playground
+Brooklyn,Rugby,40.655572313280814,-73.92688212616963,0,Supermarket,Caribbean Restaurant,Bus Station,Pizza Place,Sandwich Place,Seafood Restaurant,Grocery Store,Coffee Shop,Donut Shop,Mobile Phone Shop
+Staten Island,Park Hill,40.609190444345614,-74.08015734936303,2,Athletics & Sports,Bus Stop,Hotel,Coffee Shop,Gym / Fitness Center,Fish & Chips Shop,Factory,Falafel Restaurant,Farm,Farmers Market
+Staten Island,Westerleigh,40.62109047275413,-74.13304143951713,8,Convenience Store,Arcade,Yoga Studio,Fish Market,Eye Doctor,Factory,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+Staten Island,Graniteville,40.620171512231934,-74.1531524638777,9,Food Truck,Boat or Ferry,Bus Station,Grocery Store,Yoga Studio,Fish Market,Factory,Falafel Restaurant,Farm,Farmers Market
+Staten Island,Arlington,40.635325099114965,-74.16510420241131,2,Bus Stop,Deli / Bodega,Food Service,Grocery Store,Fish Market,Factory,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+Staten Island,Arrochar,40.596312571276776,-74.06712363225581,2,Deli / Bodega,Bus Stop,Italian Restaurant,Mediterranean Restaurant,Middle Eastern Restaurant,Sandwich Place,Liquor Store,Bagel Shop,Hotel,Pizza Place
+Staten Island,Grasmere,40.598268359599956,-74.07667436279057,2,Bus Stop,Bagel Shop,Bank,Vegetarian / Vegan Restaurant,Ice Cream Shop,Flower Shop,Food,Food & Drink Shop,Cosmetics Shop,Grocery Store
+Staten Island,Old Town,40.59632891379517,-74.08751118005587,9,Italian Restaurant,Bank,Video Store,Pharmacy,Pizza Place,Playground,Liquor Store,Mattress Store,Donut Shop,Optical Shop
+Staten Island,Dongan Hills,40.58867294819932,-74.09639905312528,0,Pizza Place,Italian Restaurant,Bank,Pharmacy,Bagel Shop,Fast Food Restaurant,Sandwich Place,Tattoo Parlor,Train Station,Flower Shop
+Staten Island,Midland Beach,40.57352690574288,-74.09348266303599,9,Restaurant,Beach,Bookstore,Pet Store,Arts & Crafts Store,Chinese Restaurant,Bus Stop,Medical Center,Dessert Shop,Deli / Bodega
+Staten Island,Grant City,40.57621558711792,-74.10585598545441,9,Convenience Store,Fast Food Restaurant,Pizza Place,French Restaurant,Grocery Store,Greek Restaurant,Mexican Restaurant,Event Space,Bar,Pharmacy
+Staten Island,New Dorp Beach,40.56425549307338,-74.10432707469131,9,Italian Restaurant,Deli / Bodega,Beach,Diner,Sports Bar,Electronics Store,Food,Restaurant,Skating Rink,Scenic Lookout
+Staten Island,Bay Terrace,40.55398800858465,-74.13916622175775,9,Clothing Store,Supermarket,Donut Shop,Women's Store,Kids Store,Lingerie Store,Cosmetics Shop,Mobile Phone Shop,Gift Shop,American Restaurant
+Staten Island,Huguenot,40.53191192048964,-74.1917410574782,9,Italian Restaurant,Ice Cream Shop,Spa,Bank,Train Station,Sandwich Place,Donut Shop,Bridal Shop,Dim Sum Restaurant,Flea Market
+Staten Island,Pleasant Plains,40.52469937611818,-74.21983106616784,0,Pizza Place,Donut Shop,Bus Stop,Ice Cream Shop,Bank,Fast Food Restaurant,Flower Shop,Discount Store,Toll Plaza,Deli / Bodega
+Staten Island,Butler Manor,40.50608165346309,-74.22950350260035,2,Baseball Field,Pool,Convenience Store,Bus Stop,Yoga Studio,Fish & Chips Shop,Factory,Falafel Restaurant,Farm,Farmers Market
+Staten Island,Charleston,40.53053148283317,-74.23215775896533,9,Shoe Store,Cosmetics Shop,Big Box Store,Grocery Store,Bakery,Scenic Lookout,Coffee Shop,Clothing Store,Gym / Fitness Center,Department Store
+Staten Island,Rossville,40.54940400650077,-74.21572851113959,0,Pizza Place,Bagel Shop,Grocery Store,Pool,Chinese Restaurant,Liquor Store,Ice Cream Shop,Convenience Store,Pharmacy,Deli / Bodega
+Staten Island,Arden Heights,40.549285822783254,-74.185886745839,2,Pharmacy,Deli / Bodega,Pizza Place,Coffee Shop,Bus Stop,Fish & Chips Shop,Eye Doctor,Factory,Falafel Restaurant,Farm
+Staten Island,Greenridge,40.55971249634296,-74.19150620964295,3,Chinese Restaurant,Spa,Bar,Lounge,Park,Soccer Field,Miscellaneous Shop,Donut Shop,Flower Shop,Farmers Market
+Staten Island,Heartland Village,40.589138948752854,-74.15902208156608,9,Moving Target,Bookstore,Coffee Shop,Spa,Mexican Restaurant,Optical Shop,Pizza Place,Mobile Phone Shop,Pharmacy,Restaurant
+Staten Island,Chelsea,40.594726027462976,-74.18956045519697,9,Coffee Shop,Italian Restaurant,Ice Cream Shop,American Restaurant,Bakery,Nightclub,Hotel,Seafood Restaurant,Theater,Market
+Staten Island,Bloomfield,40.605778684523614,-74.18725638381574,2,Recreation Center,Theme Park,Discount Store,Bus Stop,Yoga Studio,Fish Market,Factory,Falafel Restaurant,Farm,Farmers Market
+Staten Island,Bulls Head,40.60959180042034,-74.15940948657129,0,Bus Stop,Pizza Place,Pharmacy,Café,Japanese Restaurant,Chinese Restaurant,Deli / Bodega,Scenic Lookout,Tex-Mex Restaurant,Thai Restaurant
+Manhattan,Carnegie Hill,40.78268256712574,-73.9532564683712,9,Pizza Place,Cosmetics Shop,Coffee Shop,Café,Yoga Studio,Japanese Restaurant,Spa,Bookstore,Gym,Bar
+Manhattan,Noho,40.72325901885772,-73.98843368023604,9,Italian Restaurant,French Restaurant,Cocktail Bar,Mexican Restaurant,Grocery Store,Hotel,Coffee Shop,Sushi Restaurant,Bookstore,American Restaurant
+Manhattan,Civic Center,40.71522892046285,-74.00541529873362,9,Gym / Fitness Center,Bakery,Italian Restaurant,French Restaurant,Cocktail Bar,Coffee Shop,Sporting Goods Shop,Spa,Sandwich Place,Yoga Studio
+Manhattan,Midtown South,40.74850966431225,-73.98871313285254,9,Korean Restaurant,Japanese Restaurant,Hotel Bar,Hotel,Coffee Shop,Cosmetics Shop,Italian Restaurant,Cocktail Bar,Gym / Fitness Center,Bakery
+Staten Island,Richmond Town,40.569605942755096,-74.13405729862578,9,Bagel Shop,Italian Restaurant,History Museum,Spa,Café,Film Studio,Exhibit,Eye Doctor,Factory,Falafel Restaurant
+Staten Island,Shore Acres,40.60971934079289,-74.06667766061778,2,Italian Restaurant,Deli / Bodega,Bus Stop,Intersection,Bar,Bagel Shop,Restaurant,Pizza Place,Chinese Restaurant,Nail Salon
+Staten Island,Clifton,40.61917845202847,-74.07264244548406,9,Grocery Store,Mexican Restaurant,Train Station,Intersection,Eastern European Restaurant,Cajun / Creole Restaurant,Electronics Store,Discount Store,Museum,Burger Joint
+Staten Island,Concord,40.60447318968794,-74.08402364740365,2,Deli / Bodega,Supermarket,Bus Stop,Bagel Shop,Gym / Fitness Center,Park,Coffee Shop,Athletics & Sports,Sandwich Place,Peruvian Restaurant
+Staten Island,Randall Manor,40.635630006811546,-74.09805062373894,2,Park,Pizza Place,Bus Stop,Bagel Shop,Deli / Bodega,Playground,Film Studio,Eye Doctor,Factory,Falafel Restaurant
+Staten Island,Howland Hook,40.638432837947995,-74.18622331749829,7,Pier,Event Service,Event Space,Exhibit,Eye Doctor,Factory,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+Staten Island,Elm Park,40.63014674119387,-74.14181678968897,2,Bus Stop,Gas Station,Pizza Place,Ice Cream Shop,American Restaurant,Italian Restaurant,Deli / Bodega,Food Service,Film Studio,Eye Doctor
+Brooklyn,Remsen Village,40.65211745179353,-73.91665331978055,9,Caribbean Restaurant,Fast Food Restaurant,Breakfast Spot,Donut Shop,Fish Market,Café,Gym,Fried Chicken Joint,Pharmacy,Coffee Shop
+Brooklyn,New Lots,40.66274427969663,-73.885117763793,0,Pizza Place,Grocery Store,Chinese Restaurant,Deli / Bodega,Spanish Restaurant,Latin American Restaurant,Athletics & Sports,Asian Restaurant,Park,Pharmacy
+Brooklyn,Paerdegat Basin,40.63131755039671,-73.90233474295844,3,Gym,Asian Restaurant,Food,Chinese Restaurant,Yoga Studio,Film Studio,Eye Doctor,Factory,Falafel Restaurant,Farm
+Brooklyn,Mill Basin,40.615974239623405,-73.91515391550409,0,Pizza Place,Japanese Restaurant,Chinese Restaurant,Sushi Restaurant,Bagel Shop,Cosmetics Shop,Bank,Pharmacy,Burger Joint,Italian Restaurant
+Queens,Jamaica Hills,40.711459643704856,-73.796464620816,3,Pharmacy,Chinese Restaurant,Fast Food Restaurant,Indian Restaurant,Fried Chicken Joint,Donut Shop,Caribbean Restaurant,Sandwich Place,Seafood Restaurant,Southern / Soul Food Restaurant
+Queens,Utopia,40.7335002542976,-73.79671678028356,0,Deli / Bodega,Chinese Restaurant,Spa,Playground,Automotive Shop,History Museum,South American Restaurant,Donut Shop,Korean Restaurant,Bakery
+Queens,Pomonok,40.73493618075482,-73.80486120040544,9,Halal Restaurant,Bowling Alley,Scenic Lookout,Bus Station,Pizza Place,American Restaurant,Park,Japanese Restaurant,Bar,Supermarket
+Queens,Astoria Heights,40.770317392998244,-73.89467996270581,9,Music Venue,Hostel,Supermarket,Bowling Alley,Burger Joint,Bus Station,Food,Pizza Place,Playground,Plaza
+Bronx,Claremont Village,40.83142834161551,-73.90119903387674,3,Bakery,Deli / Bodega,Chinese Restaurant,Supermarket,Flower Shop,Caribbean Restaurant,Gym,Grocery Store,Park,Liquor Store
+Bronx,Concourse Village,40.82478049084294,-73.91584652759016,0,Deli / Bodega,Mexican Restaurant,Pizza Place,Pharmacy,Sandwich Place,Supermarket,Sporting Goods Shop,Fast Food Restaurant,Diner,Shopping Mall
+Bronx,Mount Eden,40.84382617671658,-73.91655551964428,0,Spanish Restaurant,Pharmacy,Supermarket,Fast Food Restaurant,Gym,Gym / Fitness Center,Health & Beauty Service,Sandwich Place,Seafood Restaurant,Bank
+Bronx,Mount Hope,40.84884160724669,-73.90829930881995,0,Asian Restaurant,Spanish Restaurant,Supermarket,Sandwich Place,Deli / Bodega,Convenience Store,Grocery Store,Ice Cream Shop,Donut Shop,Video Game Store
+Queens,Hunters Point,40.74341409007358,-73.95386782130754,9,Italian Restaurant,Café,Brewery,Japanese Restaurant,Greek Restaurant,Gym / Fitness Center,Burger Joint,Bar,Coffee Shop,Comedy Club
+Manhattan,Turtle Bay,40.75204236950726,-73.96770824581843,9,Italian Restaurant,Sushi Restaurant,Coffee Shop,Hotel,Wine Bar,French Restaurant,Japanese Restaurant,Café,Noodle House,Park
+Manhattan,Tudor City,40.74691741074023,-73.97121928722272,9,Park,Mexican Restaurant,Café,Greek Restaurant,Pizza Place,Hotel,Deli / Bodega,Diner,Dog Run,Asian Restaurant
+Manhattan,Stuyvesant Town,40.73099955477065,-73.9740517046921,9,Bar,Playground,Park,Pet Service,Boat or Ferry,Basketball Court,German Restaurant,Coffee Shop,Heliport,Cocktail Bar
+Manhattan,Flatiron,40.73967304763847,-73.99094710528267,9,Italian Restaurant,Yoga Studio,Gym,Gym / Fitness Center,American Restaurant,Cycle Studio,Dessert Shop,Cosmetics Shop,Clothing Store,Salon / Barbershop
+Queens,Sunnyside Gardens,40.7456518060808,-73.91819286431691,9,Bar,Grocery Store,American Restaurant,Pizza Place,Pharmacy,Coffee Shop,Mexican Restaurant,Food Truck,Filipino Restaurant,Korean Restaurant
+Queens,Blissville,40.737250716945006,-73.93244235260184,9,Hotel,Deli / Bodega,Donut Shop,Clothing Store,Skating Rink,Mattress Store,Bar,Thai Restaurant,Movie Theater,Hostel
+Brooklyn,Fulton Ferry,40.70328109093018,-73.99550751888422,9,Park,American Restaurant,Scenic Lookout,Bridge,Café,Coffee Shop,Seafood Restaurant,Ice Cream Shop,Hotel Bar,Pizza Place
+Brooklyn,Vinegar Hill,40.703321498828785,-73.98111603592399,9,Food Truck,Art Gallery,Bookstore,Wine Shop,Coffee Shop,Café,Bakery,Laser Tag,Latin American Restaurant,Men's Store
+Brooklyn,Weeksville,40.6750398650324,-73.93053108817347,9,Discount Store,Café,History Museum,Liquor Store,Lounge,Donut Shop,Park,Cocktail Bar,Chinese Restaurant,American Restaurant
+Brooklyn,Broadway Junction,40.67786104769535,-73.90331684852606,0,Donut Shop,Diner,Fried Chicken Joint,Ice Cream Shop,Caribbean Restaurant,Pizza Place,Moving Target,Burger Joint,Sandwich Place,Deli / Bodega
+Brooklyn,Dumbo,40.70317632822696,-73.98875280745047,9,Coffee Shop,Park,Scenic Lookout,Pizza Place,Wine Shop,Italian Restaurant,Bookstore,American Restaurant,Bakery,Café
+Staten Island,Manor Heights,40.60180957631448,-74.12059399718008,0,Deli / Bodega,Campground,Home Service,Pharmacy,Sushi Restaurant,Chinese Restaurant,Bagel Shop,American Restaurant,Liquor Store,Donut Shop
+Staten Island,Willowbrook,40.60370692627375,-74.13208447484304,2,Bus Stop,Bagel Shop,Deli / Bodega,Chinese Restaurant,Spa,Fish & Chips Shop,Eye Doctor,Factory,Falafel Restaurant,Farm
+Staten Island,Sandy Ground,40.5411399220918,-74.21776636068573,2,Art Gallery,Market,Liquor Store,Bus Stop,Home Service,Fish Market,Factory,Falafel Restaurant,Farm,Farmers Market
+Staten Island,Egbertville,40.579118742961256,-74.12727240604953,9,Italian Restaurant,Cosmetics Shop,Clothing Store,Bagel Shop,Fountain,Food Truck,Exhibit,Eye Doctor,Factory,Fried Chicken Joint
+Queens,Roxbury,40.567375889570364,-73.8921376023283,0,Beach,Irish Pub,Pub,Trail,Pizza Place,Fast Food Restaurant,Hardware Store,Deli / Bodega,Food Court,Food & Drink Shop
+Brooklyn,Homecrest,40.59852509513729,-73.9591845942871,0,Grocery Store,Donut Shop,Bank,Sandwich Place,Sushi Restaurant,Mexican Restaurant,Café,Pizza Place,Chinese Restaurant,Bagel Shop
+Queens,Middle Village,40.71641451115823,-73.88114319200609,9,Bank,Discount Store,Martial Arts Dojo,Bakery,Electronics Store,Pharmacy,South American Restaurant,Sandwich Place,Pizza Place,Park
+Staten Island,Prince's Bay,40.52626406734817,-74.20152556457666,0,Pizza Place,Italian Restaurant,Sushi Restaurant,Food Truck,Bank,Pharmacy,Bagel Shop,Dim Sum Restaurant,Diner,Falafel Restaurant
+Staten Island,Lighthouse Hill,40.576506293794935,-74.13792663771576,9,Spa,Art Museum,Italian Restaurant,Moving Target,Café,Factory,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+Staten Island,Richmond Valley,40.51954145748913,-74.22957080626948,0,Bank,Construction & Landscaping,Smoothie Shop,Fast Food Restaurant,Mexican Restaurant,Train Station,Sandwich Place,Deli / Bodega,Bubble Tea Shop,Falafel Restaurant
+Queens,Malba,40.79060155670153,-73.8266775713865,9,Rest Area,Tennis Court,Rock Club,Bus Line,Exhibit,Eye Doctor,Factory,Falafel Restaurant,Farm,Farmers Market
+Brooklyn,Highland Park,40.682485511016935,-73.8902809854761,0,Pizza Place,Liquor Store,Gym / Fitness Center,Grocery Store,Tennis Court,Garden,Park,Metro Station,Department Store,Deli / Bodega
+Brooklyn,Madison,40.609377701137696,-73.948415153289,0,Bagel Shop,Deli / Bodega,Dessert Shop,Spa,Candy Store,Pilates Studio,Pizza Place,Italian Restaurant,Restaurant,Design Studio
