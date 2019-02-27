@@ -6,7 +6,9 @@
 
 ## Introduction
 
-We are going to analyse a study case for real state companies. In this work are discussed some of the challenges companies in this sector may face and the repercussions at operational cost and customer satisfaction.
+I am going to analyze a study case for real state companies. In this work are discussed some of the challenges companies in this sector may face and the repercussions at operational cost and customer satisfaction.
+
+Also, I show up how Data Science techniques such as data pre-processing and cleaning, visualization and clustering algorithms can help solving this kind of problems.
 
 ### Problem
 
