@@ -39,3 +39,7 @@ I used the datasets for Toronto and NY from the following sources:
 * [New York City Open Data](https://data.cityofnewyork.us/City-Government/Neighborhood-Names-GIS/99bc-9p23): Geolocation data.
 * [Toronto Most Common Venues](https://github.com/cdCarlos/coursera_capston/blob/master/toronto_common_venues.csv): Geolocation data.
 * [Foursquare API](https://developer.foursquare.com/): Venues data
+
+In contrast to Toronto, I had to consolidate first the data set for NY.
+
+### Data Pre-Processing
