@@ -16,4 +16,5 @@ A company dedicated to the rent and sale of real estate housing wants to reduce 
 
 Employees have to look for neighborhoods at a given city that satisfy some given characteristics where customers are used to live (or willing to). This process can required many hours even for experienced employees who have to analyze and evaluate all of those characteristics provided by the customer, resulting in not just a costly operation for the company but also in a long wait time period for customers in order to get some recommendations.
 
-As customer can provide as many desired characteristics for expected neighborhoods, in this case we are going to limit those characteristics to venues.
+For our study case we are going to simulate a customer who lives in a random neighborhood of Toronto, CA and is willing to move to New York City, US. As customer can provide as many desired characteristics for expected neighborhoods, in this case we are going to limit those characteristics to venues.
+
