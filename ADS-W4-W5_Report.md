@@ -18,3 +18,17 @@ Employees have to look for neighborhoods at a given city that satisfy some given
 
 For our study case we are going to simulate a customer who lives in a random neighborhood of Toronto, CA and is willing to move to New York City, US. As customer can provide as many desired characteristics for expected neighborhoods, in this case we are going to limit those characteristics to venues.
 
+## Data
+
+This project requires different kinds of data such as geolocation data and venues information for each selected city and its corresponding neighborhoods.
+
+Geolocation Infomation:
+
+* Neighbourhoods in Toronto.
+* Neighbourhoods in New Yor City.
+
+Venues Information:
+
+* Venues for each neighbourhood in Toronto.
+* Venues for each neighbourhood in New York.
+
