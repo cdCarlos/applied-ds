@@ -20,24 +20,24 @@ For our study case we are going to simulate a customer who lives in a random nei
 
 ## Data
 
-This project requires different kinds of data such as geolocation data and venues information for each selected city and its corresponding neighborhoods.
+This project requires different kinds of data such as location data and venues information for each selected city and its corresponding neighborhoods.
 
-Geolocation Infomation:
+Location Information:
 
-* Neighbourhoods in Toronto.
-* Neighbourhoods in New Yor City.
+* Neighborhoods in Toronto.
+* Neighborhoods in New Yor City.
 
 Venues Information:
 
-* Venues for each neighbourhood in Toronto.
-* Venues for each neighbourhood in New York.
+* Venues for each neighborhoods in Toronto.
+* Venues for each neighborhoods in New York.
 
 ### Data Sources
 
-I used the datasets for Toronto and NY from the following sources:
+I used the data sets for Toronto and NY from the following sources:
 
-* [New York City Open Data](https://data.cityofnewyork.us/City-Government/Neighborhood-Names-GIS/99bc-9p23): Geolocation data.
-* [Toronto Most Common Venues](https://github.com/cdCarlos/coursera_capston/blob/master/toronto_common_venues.csv): Geolocation data.
+* [New York City Open Data](https://data.cityofnewyork.us/City-Government/Neighborhood-Names-GIS/99bc-9p23): Location data.
+* [Toronto Most Common Venues](https://github.com/cdCarlos/coursera_capston/blob/master/toronto_common_venues.csv): Location data.
 * [Foursquare API](https://developer.foursquare.com/): Venues data
 
 In contrast to Toronto, I had to consolidate first the data set for NY.
