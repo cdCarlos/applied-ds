@@ -211,3 +211,29 @@ With this information I was able to extract those NY neighborhoods with the high
 | --- | --- | --- |
 | 1 | Bus Stop | Starrett City, New Brighton, Woodrow, Arlington, Grasmere, Bulls Head, Elm Park, Willowbrook |
 | 2 | Park | New Brighton |
+
+
+A this point it is easier to have a look at the results:
+
+![Recommended Neighbourhoods](map_ny_recommended_neighbourhoods.png "Recommended Neighbourhoods")
+
+## Results & Discussion
+
+In the above map we can see the NY recommended neighborhoods. Here we have deferenciated some neighborhoods with different colors.
+
+In this case, the intense red point represents the neighborhood with the highest SL to the actual customer's neighborhood.
+The other three light red points are those neighborhoods that are part of the cluster where the intense red point belongs to (which makes them good cantidates for recommendation).
+
+The same applies for the purple points. The seven intense purple points are those neighborhoods with a SL equals to 1 and the light purple points are those who belongs to the same cluster.
+
+Gray points are neighborhoods with zero SL (not recommended).
+
+Now we can recommend neighborhoods to customer in a more easy and fast way reducing the opeartional cost by the company.
+
+## Conclusion
+
+By using unsupervised clustering algorithms we were able to recommend specific neighborhoods but also whole clusters to our imaginary customer.
+
+At this point we've done the prove of concept for a business problem reducing the operational cost and response time for recommending neighborhoods based on neighborhood's similarities were customer is used to live.
+
+One next step should be our model's optimization by defining a proper clustering size based on F1-score, V-Measure, comparing performance between multiple unsupervised algorithms and so on.
