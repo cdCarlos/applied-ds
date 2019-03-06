@@ -16,6 +16,8 @@
     - [Clustering](#clustering)
     - [Neighborhood Recommendation](#neighborhood-recommendation)
         - [Similarity Level](#similarity-level)
+    - [Results and Discussion](#results-and-discussion)
+    - [Conclusion](#conclusion)
 
 ## Introduction
 
@@ -229,7 +231,7 @@ A this point it is easier to have a look at the results:
 
 ![Recommended Neighbourhoods](map_ny_recommended_neighbourhoods.png "Recommended Neighbourhoods")
 
-## Results & Discussion
+## Results and Discussion
 
 <p align="justify">
 In the above map we can see the NY recommended neighborhoods. Here we have deferenciated some neighborhoods with different colors.
