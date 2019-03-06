@@ -167,8 +167,10 @@ At this point I was able to get the 10 most common venues for each neighborhood:
 
 ## Clustering
 
+<p align="justify">
 For clustering, I used K-Means from sklearn package. K-Means is one of the simplest, fast and robust algorithm for unsupervised learning clustering and it also works really well with large datasets.
 In this case I defined 10 clusters.
+</p>
 
 ![New York Neighborhoods](./map_ny_clusters.png)
 
@@ -176,9 +178,11 @@ As you can see multiple neighborhoods fall into the same cluster.
 
 ## Neighborhood Recommendation
 
+<p align="justify">
 Now everything is set to the recommendation phase. The first step here is to choose the random customer information.
 What I mean by customer information is ranked venues where customer is used to live since this information will be
 recommendation criteria for the new location.
+</p>
 
 **Random customer information:**
 * PostalCode: M3K
@@ -199,13 +203,21 @@ The important information here are the ten venues that most represent the locati
 
 ### Similarity Level
 
+<p align="justify">
 Here we are going to use the term **Similarity Level** (SL) which is explained next.
+</p>
 
+<p align="justify">
 Either for Toronto and NY we have their ten most common venues. These venues are ordered starting at 1 to 10 being 1 the first one most representative, 2 the second one most representative and so on for the neighborhood. This is our similarity level.
+</p>
 
+<p align="justify">
 In our case we recommend a NY neighborhood based on the Similarity Level it has with the customer's neighborhood. For instance, a recommended NY neighborhood with a SL equals to 3 means that the NY neighborhood has a perfect match with the 1st, 2nd and 3th customer's most common venues.
+</p>
 
+<p align="justify">
 With this information I was able to extract those NY neighborhoods with the highest SL score:
+</p>
 
 | SL | Venue Type | Neighborhoods |
 | --- | --- | --- |
@@ -219,21 +231,35 @@ A this point it is easier to have a look at the results:
 
 ## Results & Discussion
 
+<p align="justify">
 In the above map we can see the NY recommended neighborhoods. Here we have deferenciated some neighborhoods with different colors.
+</p>
 
+<p align="justify">
 In this case, the intense red point represents the neighborhood with the highest SL to the actual customer's neighborhood.
 The other three light red points are those neighborhoods that are part of the cluster where the intense red point belongs to (which makes them good cantidates for recommendation).
+</p>
 
+<p align="justify">
 The same applies for the purple points. The seven intense purple points are those neighborhoods with a SL equals to 1 and the light purple points are those who belongs to the same cluster.
+</p>
 
 Gray points are neighborhoods with zero SL (not recommended).
 
+<p align="justify">
 Now we can recommend neighborhoods to customer in a more easy and fast way reducing the opeartional cost by the company.
+</p>
 
 ## Conclusion
 
+<p align="justify">
 By using unsupervised clustering algorithms we were able to recommend specific neighborhoods but also whole clusters to our imaginary customer.
+</p>
 
+<p align="justify">
 At this point we've done the prove of concept for a business problem reducing the operational cost and response time for recommending neighborhoods based on neighborhood's similarities were customer is used to live.
+</p>
 
+<p align="justify">
 One next step should be our model's optimization by defining a proper clustering size based on F1-score, V-Measure, comparing performance between multiple unsupervised algorithms and so on.
+</p>
